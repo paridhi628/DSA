@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/paridhi628/DSA/tree/master/0881-boats-to-save-people) |
 | [1051-height-checker](https://github.com/paridhi628/DSA/tree/master/1051-height-checker) |
 | [1672-richest-customer-wealth](https://github.com/paridhi628/DSA/tree/master/1672-richest-customer-wealth) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/paridhi628/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/paridhi628/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/paridhi628/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/paridhi628/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0881-boats-to-save-people](https://github.com/paridhi628/DSA/tree/master/0881-boats-to-save-people) |
 | [1051-height-checker](https://github.com/paridhi628/DSA/tree/master/1051-height-checker) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/paridhi628/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting Sort
 |  |
 | ------- |
