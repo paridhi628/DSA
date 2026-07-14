@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/paridhi628/DSA/tree/master/0011-container-with-most-water) |
+| [0345-reverse-vowels-of-a-string](https://github.com/paridhi628/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0881-boats-to-save-people](https://github.com/paridhi628/DSA/tree/master/0881-boats-to-save-people) |
 ## Greedy
 |  |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/paridhi628/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## String
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/paridhi628/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
