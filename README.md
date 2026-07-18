@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/paridhi628/DSA/tree/master/0881-boats-to-save-people) |
 | [1051-height-checker](https://github.com/paridhi628/DSA/tree/master/1051-height-checker) |
 | [1672-richest-customer-wealth](https://github.com/paridhi628/DSA/tree/master/1672-richest-customer-wealth) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/paridhi628/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/paridhi628/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/paridhi628/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Matrix
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/paridhi628/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/paridhi628/DSA/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/paridhi628/DSA/tree/master/2469-convert-the-temperature) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/paridhi628/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/paridhi628/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/paridhi628/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Queue
 |  |
