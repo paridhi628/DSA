@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/paridhi628/DSA/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/paridhi628/DSA/tree/master/0035-search-insert-position) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/paridhi628/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0605-can-place-flowers](https://github.com/paridhi628/DSA/tree/master/0605-can-place-flowers) |
 | [0658-find-k-closest-elements](https://github.com/paridhi628/DSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/paridhi628/DSA/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/paridhi628/DSA/tree/master/0881-boats-to-save-people) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/paridhi628/DSA/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/paridhi628/DSA/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/paridhi628/DSA/tree/master/0881-boats-to-save-people) |
 ## Hash Table
 |  |
