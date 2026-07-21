@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/paridhi628/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/paridhi628/DSA/tree/master/0018-4sum) |
 | [0035-search-insert-position](https://github.com/paridhi628/DSA/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/paridhi628/DSA/tree/master/0041-first-missing-positive) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/paridhi628/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/paridhi628/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0605-can-place-flowers](https://github.com/paridhi628/DSA/tree/master/0605-can-place-flowers) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/paridhi628/DSA/tree/master/0041-first-missing-positive) |
 | [0387-first-unique-character-in-a-string](https://github.com/paridhi628/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/paridhi628/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/paridhi628/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
