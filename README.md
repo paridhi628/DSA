@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/paridhi628/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/paridhi628/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/paridhi628/DSA/tree/master/0018-4sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/paridhi628/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/paridhi628/DSA/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/paridhi628/DSA/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/paridhi628/DSA/tree/master/0053-maximum-subarray) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/paridhi628/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/paridhi628/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/paridhi628/DSA/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/paridhi628/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/paridhi628/DSA/tree/master/0349-intersection-of-two-arrays) |
