@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/paridhi628/DSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/paridhi628/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/paridhi628/DSA/tree/master/0724-find-pivot-index) |
+| [0877-stone-game](https://github.com/paridhi628/DSA/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/paridhi628/DSA/tree/master/0881-boats-to-save-people) |
 | [1051-height-checker](https://github.com/paridhi628/DSA/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/paridhi628/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/paridhi628/DSA/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/paridhi628/DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/paridhi628/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/paridhi628/DSA/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/paridhi628/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/paridhi628/DSA/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/paridhi628/DSA/tree/master/2469-convert-the-temperature) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/paridhi628/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/paridhi628/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/paridhi628/DSA/tree/master/0877-stone-game) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/paridhi628/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Prefix Sum
 |  |
@@ -172,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/paridhi628/DSA/tree/master/0268-missing-number) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/paridhi628/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
