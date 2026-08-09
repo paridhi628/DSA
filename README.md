@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/paridhi628/DSA/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/paridhi628/DSA/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/paridhi628/DSA/tree/master/0888-fair-candy-swap) |
+| [0942-di-string-match](https://github.com/paridhi628/DSA/tree/master/0942-di-string-match) |
 | [1051-height-checker](https://github.com/paridhi628/DSA/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/paridhi628/DSA/tree/master/1089-duplicate-zeros) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/paridhi628/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/paridhi628/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0658-find-k-closest-elements](https://github.com/paridhi628/DSA/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/paridhi628/DSA/tree/master/0881-boats-to-save-people) |
+| [0942-di-string-match](https://github.com/paridhi628/DSA/tree/master/0942-di-string-match) |
 | [1089-duplicate-zeros](https://github.com/paridhi628/DSA/tree/master/1089-duplicate-zeros) |
 | [1768-merge-strings-alternately](https://github.com/paridhi628/DSA/tree/master/1768-merge-strings-alternately) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/paridhi628/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/paridhi628/DSA/tree/master/0011-container-with-most-water) |
 | [0605-can-place-flowers](https://github.com/paridhi628/DSA/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/paridhi628/DSA/tree/master/0881-boats-to-save-people) |
+| [0942-di-string-match](https://github.com/paridhi628/DSA/tree/master/0942-di-string-match) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/paridhi628/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Hash Table
 |  |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/paridhi628/DSA/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/paridhi628/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/paridhi628/DSA/tree/master/0709-to-lower-case) |
+| [0942-di-string-match](https://github.com/paridhi628/DSA/tree/master/0942-di-string-match) |
 | [1768-merge-strings-alternately](https://github.com/paridhi628/DSA/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/paridhi628/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/paridhi628/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
