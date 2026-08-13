@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/paridhi628/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/paridhi628/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/paridhi628/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2562-find-the-array-concatenation-value](https://github.com/paridhi628/DSA/tree/master/2562-find-the-array-concatenation-value) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/paridhi628/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/paridhi628/DSA/tree/master/3731-find-missing-elements) |
 ## Matrix
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/paridhi628/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/paridhi628/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/paridhi628/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2562-find-the-array-concatenation-value](https://github.com/paridhi628/DSA/tree/master/2562-find-the-array-concatenation-value) |
 ## Greedy
 |  |
 | ------- |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/paridhi628/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/paridhi628/DSA/tree/master/0059-spiral-matrix-ii) |
+| [2562-find-the-array-concatenation-value](https://github.com/paridhi628/DSA/tree/master/2562-find-the-array-concatenation-value) |
 ## Bit Manipulation
 |  |
 | ------- |
