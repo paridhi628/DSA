@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/paridhi628/DSA/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/paridhi628/DSA/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/paridhi628/DSA/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/paridhi628/DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/paridhi628/DSA/tree/master/0628-maximum-product-of-three-numbers) |
