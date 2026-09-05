@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/paridhi628/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/paridhi628/DSA/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/paridhi628/DSA/tree/master/0268-missing-number) |
+| [0445-add-two-numbers-ii](https://github.com/paridhi628/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/paridhi628/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/paridhi628/DSA/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/paridhi628/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/paridhi628/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/paridhi628/DSA/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/paridhi628/DSA/tree/master/0445-add-two-numbers-ii) |
 | [2000-reverse-prefix-of-word](https://github.com/paridhi628/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/paridhi628/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Enumeration
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/paridhi628/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/paridhi628/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/paridhi628/DSA/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/paridhi628/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/paridhi628/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/paridhi628/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/paridhi628/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
