@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/paridhi628/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/paridhi628/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/paridhi628/DSA/tree/master/1470-shuffle-the-array) |
+| [1512-number-of-good-pairs](https://github.com/paridhi628/DSA/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/paridhi628/DSA/tree/master/1672-richest-customer-wealth) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/paridhi628/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/paridhi628/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/paridhi628/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1051-height-checker](https://github.com/paridhi628/DSA/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/paridhi628/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/paridhi628/DSA/tree/master/1512-number-of-good-pairs) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/paridhi628/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Two Pointers
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/paridhi628/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0888-fair-candy-swap](https://github.com/paridhi628/DSA/tree/master/0888-fair-candy-swap) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/paridhi628/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1512-number-of-good-pairs](https://github.com/paridhi628/DSA/tree/master/1512-number-of-good-pairs) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/paridhi628/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/paridhi628/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/paridhi628/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/paridhi628/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/paridhi628/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/paridhi628/DSA/tree/master/0877-stone-game) |
+| [1512-number-of-good-pairs](https://github.com/paridhi628/DSA/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/paridhi628/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/paridhi628/DSA/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/paridhi628/DSA/tree/master/2469-convert-the-temperature) |
