@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/paridhi628/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/paridhi628/DSA/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/paridhi628/DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/paridhi628/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3904-smallest-stable-index-ii](https://github.com/paridhi628/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Matrix
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/paridhi628/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/paridhi628/DSA/tree/master/0059-spiral-matrix-ii) |
 | [1672-richest-customer-wealth](https://github.com/paridhi628/DSA/tree/master/1672-richest-customer-wealth) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/paridhi628/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search
 |  |
 | ------- |
@@ -328,4 +330,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/paridhi628/DSA/tree/master/0796-rotate-string) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/paridhi628/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
