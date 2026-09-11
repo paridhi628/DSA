@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/paridhi628/DSA/tree/master/2469-convert-the-temperature) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/paridhi628/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/paridhi628/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3516-find-closest-person](https://github.com/paridhi628/DSA/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/paridhi628/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/paridhi628/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/paridhi628/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
