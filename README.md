@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/paridhi628/DSA/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/paridhi628/DSA/tree/master/1672-richest-customer-wealth) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/paridhi628/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1816-truncate-sentence](https://github.com/paridhi628/DSA/tree/master/1816-truncate-sentence) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/paridhi628/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/paridhi628/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/paridhi628/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/paridhi628/DSA/tree/master/0917-reverse-only-letters) |
 | [0942-di-string-match](https://github.com/paridhi628/DSA/tree/master/0942-di-string-match) |
 | [1768-merge-strings-alternately](https://github.com/paridhi628/DSA/tree/master/1768-merge-strings-alternately) |
+| [1816-truncate-sentence](https://github.com/paridhi628/DSA/tree/master/1816-truncate-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/paridhi628/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/paridhi628/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/paridhi628/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
