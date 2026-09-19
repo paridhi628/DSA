@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/paridhi628/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/paridhi628/DSA/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/paridhi628/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0561-array-partition](https://github.com/paridhi628/DSA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/paridhi628/DSA/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/paridhi628/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/paridhi628/DSA/tree/master/0658-find-k-closest-elements) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/paridhi628/DSA/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/paridhi628/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0506-relative-ranks](https://github.com/paridhi628/DSA/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/paridhi628/DSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/paridhi628/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/paridhi628/DSA/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/paridhi628/DSA/tree/master/0881-boats-to-save-people) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/paridhi628/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0561-array-partition](https://github.com/paridhi628/DSA/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/paridhi628/DSA/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/paridhi628/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/paridhi628/DSA/tree/master/1512-number-of-good-pairs) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/paridhi628/DSA/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/paridhi628/DSA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/paridhi628/DSA/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/paridhi628/DSA/tree/master/0881-boats-to-save-people) |
 | [0942-di-string-match](https://github.com/paridhi628/DSA/tree/master/0942-di-string-match) |
