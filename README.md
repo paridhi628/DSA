@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/paridhi628/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/paridhi628/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/paridhi628/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/paridhi628/DSA/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/paridhi628/DSA/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/paridhi628/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/paridhi628/DSA/tree/master/0561-array-partition) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/paridhi628/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/paridhi628/DSA/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/paridhi628/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0455-assign-cookies](https://github.com/paridhi628/DSA/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/paridhi628/DSA/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/paridhi628/DSA/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/paridhi628/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/paridhi628/DSA/tree/master/0234-palindrome-linked-list) |
 | [0345-reverse-vowels-of-a-string](https://github.com/paridhi628/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/paridhi628/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/paridhi628/DSA/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/paridhi628/DSA/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/paridhi628/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0658-find-k-closest-elements](https://github.com/paridhi628/DSA/tree/master/0658-find-k-closest-elements) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/paridhi628/DSA/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/paridhi628/DSA/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/paridhi628/DSA/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/paridhi628/DSA/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/paridhi628/DSA/tree/master/0881-boats-to-save-people) |
@@ -354,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/paridhi628/DSA/tree/master/0836-rectangle-overlap) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/paridhi628/DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
