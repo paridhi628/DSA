@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/paridhi628/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/paridhi628/DSA/tree/master/1512-number-of-good-pairs) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/paridhi628/DSA/tree/master/1716-calculate-money-in-leetcode-bank) |
+| [1952-three-divisors](https://github.com/paridhi628/DSA/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/paridhi628/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/paridhi628/DSA/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/paridhi628/DSA/tree/master/2413-smallest-even-multiple) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/paridhi628/DSA/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/paridhi628/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/paridhi628/DSA/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/paridhi628/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/paridhi628/DSA/tree/master/1291-sequential-digits) |
+| [1952-three-divisors](https://github.com/paridhi628/DSA/tree/master/1952-three-divisors) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/paridhi628/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Linked List
 |  |
@@ -371,4 +374,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/paridhi628/DSA/tree/master/0455-assign-cookies) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/paridhi628/DSA/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/paridhi628/DSA/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
