@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/paridhi628/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/paridhi628/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2562-find-the-array-concatenation-value](https://github.com/paridhi628/DSA/tree/master/2562-find-the-array-concatenation-value) |
+| [2951-find-the-peaks](https://github.com/paridhi628/DSA/tree/master/2951-find-the-peaks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/paridhi628/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/paridhi628/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/paridhi628/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/paridhi628/DSA/tree/master/1291-sequential-digits) |
 | [1952-three-divisors](https://github.com/paridhi628/DSA/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/paridhi628/DSA/tree/master/2427-number-of-common-factors) |
+| [2951-find-the-peaks](https://github.com/paridhi628/DSA/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/paridhi628/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Linked List
 |  |
