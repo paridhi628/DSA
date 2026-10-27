@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/paridhi628/DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/paridhi628/DSA/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/paridhi628/DSA/tree/master/0292-nim-game) |
+| [0412-fizz-buzz](https://github.com/paridhi628/DSA/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/paridhi628/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/paridhi628/DSA/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/paridhi628/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/paridhi628/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/paridhi628/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/paridhi628/DSA/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/paridhi628/DSA/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/paridhi628/DSA/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/paridhi628/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/paridhi628/DSA/tree/master/0709-to-lower-case) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/paridhi628/DSA/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/paridhi628/DSA/tree/master/0059-spiral-matrix-ii) |
+| [0412-fizz-buzz](https://github.com/paridhi628/DSA/tree/master/0412-fizz-buzz) |
 | [2562-find-the-array-concatenation-value](https://github.com/paridhi628/DSA/tree/master/2562-find-the-array-concatenation-value) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/paridhi628/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Bit Manipulation
