@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/paridhi628/DSA/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/paridhi628/DSA/tree/master/0917-reverse-only-letters) |
 | [0942-di-string-match](https://github.com/paridhi628/DSA/tree/master/0942-di-string-match) |
+| [1678-goal-parser-interpretation](https://github.com/paridhi628/DSA/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/paridhi628/DSA/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/paridhi628/DSA/tree/master/1816-truncate-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/paridhi628/DSA/tree/master/2000-reverse-prefix-of-word) |
