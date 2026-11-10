@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-smallest-index-with-equal-value](https://github.com/paridhi628/DSA/tree/master/2057-smallest-index-with-equal-value) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/paridhi628/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/paridhi628/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/paridhi628/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/paridhi628/DSA/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/paridhi628/DSA/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/paridhi628/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/paridhi628/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/paridhi628/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/paridhi628/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/paridhi628/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/paridhi628/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/paridhi628/DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/paridhi628/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
