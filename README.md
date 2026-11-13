@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/paridhi628/DSA/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/paridhi628/DSA/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/paridhi628/DSA/tree/master/0445-add-two-numbers-ii) |
+| [0504-base-7](https://github.com/paridhi628/DSA/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/paridhi628/DSA/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/paridhi628/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/paridhi628/DSA/tree/master/0728-self-dividing-numbers) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/paridhi628/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/paridhi628/DSA/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/paridhi628/DSA/tree/master/0412-fizz-buzz) |
+| [0504-base-7](https://github.com/paridhi628/DSA/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/paridhi628/DSA/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/paridhi628/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/paridhi628/DSA/tree/master/0709-to-lower-case) |
