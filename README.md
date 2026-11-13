@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/paridhi628/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/paridhi628/DSA/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/paridhi628/DSA/tree/master/0191-number-of-1-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/paridhi628/DSA/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/paridhi628/DSA/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/paridhi628/DSA/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/paridhi628/DSA/tree/master/0389-find-the-difference) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/paridhi628/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
