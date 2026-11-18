@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/paridhi628/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/paridhi628/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/paridhi628/DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/paridhi628/DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/paridhi628/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/paridhi628/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/paridhi628/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
