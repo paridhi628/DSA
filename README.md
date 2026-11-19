@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/paridhi628/DSA/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/paridhi628/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/paridhi628/DSA/tree/master/0561-array-partition) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/paridhi628/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/paridhi628/DSA/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/paridhi628/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/paridhi628/DSA/tree/master/0658-find-k-closest-elements) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/paridhi628/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/paridhi628/DSA/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/paridhi628/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/paridhi628/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0888-fair-candy-swap](https://github.com/paridhi628/DSA/tree/master/0888-fair-candy-swap) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/paridhi628/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/paridhi628/DSA/tree/master/1512-number-of-good-pairs) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/paridhi628/DSA/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/paridhi628/DSA/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/paridhi628/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/paridhi628/DSA/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0709-to-lower-case](https://github.com/paridhi628/DSA/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/paridhi628/DSA/tree/master/0796-rotate-string) |
 | [0917-reverse-only-letters](https://github.com/paridhi628/DSA/tree/master/0917-reverse-only-letters) |
