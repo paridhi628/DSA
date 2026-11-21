@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/paridhi628/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1051-height-checker](https://github.com/paridhi628/DSA/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/paridhi628/DSA/tree/master/1089-duplicate-zeros) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/paridhi628/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/paridhi628/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/paridhi628/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/paridhi628/DSA/tree/master/1390-four-divisors) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/paridhi628/DSA/tree/master/0605-can-place-flowers) |
 | [0881-boats-to-save-people](https://github.com/paridhi628/DSA/tree/master/0881-boats-to-save-people) |
 | [0942-di-string-match](https://github.com/paridhi628/DSA/tree/master/0942-di-string-match) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/paridhi628/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/paridhi628/DSA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/paridhi628/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/paridhi628/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/paridhi628/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0836-rectangle-overlap](https://github.com/paridhi628/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/paridhi628/DSA/tree/master/0877-stone-game) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/paridhi628/DSA/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/paridhi628/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/paridhi628/DSA/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/paridhi628/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
