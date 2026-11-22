@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/paridhi628/DSA/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/paridhi628/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/paridhi628/DSA/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/paridhi628/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/paridhi628/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/paridhi628/DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/paridhi628/DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
